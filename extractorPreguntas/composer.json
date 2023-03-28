@@ -1,0 +1,18 @@
+{
+  "autoload": {
+	"psr-4": {
+	  "": [
+		"."
+	  ]
+	}
+  },
+  "require": {
+	"illuminate/database": "*",
+	"illuminate/pagination": "*",
+	"illuminate/events": "*",
+	"illuminate/support": "*",
+	"guzzlehttp/guzzle": "*",
+	"voku/simple_html_dom": "^4.8",
+	"vlucas/phpdotenv": "dev-master"
+  }
+}

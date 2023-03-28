@@ -1,0 +1,154 @@
+{
+  "preguntas": [
+    {
+      "url": "./../../../../assets/images/retroalimentacion/1.png",
+      "tipo": "Phishing Detectado.",
+      "texto": "Ofuscación.  La URL del archivo pdf se dirige a una url desconocida  que\n      es “CoronaVirus_Safety.pdf.zip” , es decir cuando descarguemos el adjunto en\n      realidad se descarga un archivo comprimido que pretende secuestrar nuestra\n      información. Saludo y contenido genérico, el correo no proviene de un dominio\n      de institución de salud, contenido persuasivo, tema de interés actual"
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/2.png",
+      "tipo": "Phishing Detectado.",
+      "texto": "Ofuscación y Texto adicional. La URL a donde se dirige el archivo adjunto\n      en este caso es la siguiente:   https://driver.google.com/danna.johonson.docx.exe\n      , la plabra correcta es “drive” y no  “driver” la URL correcta empezaría con\n       https://drive.google.com , además, la URL va dirigida a un archivo ejecutable\n      .exe y no a un documento como el mensaje quiere dar a conocer.\n      Comunicado institucional usa correo personal, texto corto y preciso, en un\n      ámbito laboral podría causar confusión y credibilidad"
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/3.png",
+      "tipo": "Phishing Detectado.",
+      "texto": "Ofuscación y Texto adicional. La URL a la que se dirige el mensaje de\n      CAMBIAR CONTRASEÑA es la siguiente: https://wwww.myaccount.google.com-seguritysetting-mt.segurity.org/signon/\n      en este caso se tiene cuatro “w” en el subdominio de la dirección y se dirige a una URL desconocida.\n      Google no envía links para cambio de claves, el saludo es muy informal, el contenido\n      es persuasivo, correo electrónico no pertenece al de soporte de Google  "
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/4.png",
+      "tipo": "Phishing Detectado.",
+      "texto": "Ofuscación y Texto Adicional. La URL se esconde detrás de el enlace Ver\n      Foto   https://wwww.driver.google.com.download-photo.system.net/ft1537PD el\n      enlace se dirige a una URL que tiene un texto adicional, tiene cuatro w en\n      el suddominio del enlace, por lo tanto no se dirige a un enlace propio de\n      Google Drive, además la palabra correcta del dominio es “drive”.\n      Correo llama la atención del usuario, es corto y preciso, puede causar\n      sospecha, correo de personas desconocidas, Enlace del adjunto es sospechoso,\n      dominio de la foto es raro"
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/5.png",
+      "tipo": "Phishing Detectado.",
+      "texto": "Texto manipulado y Ofuscación. La URL que se nos presenta no corresponde\n       a una URL original https://www.dropbox/documento_aceptacion.pdf ya que le falta\n       en la dirección la extensión (.com) , así mismo, cuando nos posicionamos sobre\n       el enlace nos muestra una dirección diferente\n      https://www.dropbox-com.syst.biz/documento_aceptacion.pdf.exe . En el enlace\n      orginal sería https://www.dropbox.com/ , adicionalmente el destino final de la\n      url es un archivo ejecutable .exe .\n      Dominio del Adjunto no es Dropbox, Comunicado institucional usa correo personal,\n       Saludo cordial, Caso real en caso de estar en proceso de búsqueda de trabajo la\n       persona podría ser víctima "
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/6.png",
+      "tipo": "Phishing Detectado.",
+      "texto": "Ofuscación, Texto adicional. La URL a la que se dirige es la siguiente:\n      https://www.bancopichincha.com/Verificacion?cliente43524jkr4ish a simple vista\n      se diría que es correcta la dirección pero cuando nos posicionamos sobre ella la\n      verdadera dirección a la que se dirige es : https://www.bancopichinca.com/\n      cssVerificacion?pagemane=v_cliente43524jkr4ish en la que el dominio no corresponde\n      a la del Banco.\n      No hay coincidencia de los dominios del correo con el del enlace, contenido llama\n      la atención del usuario, saludo "
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/7.png",
+      "tipo": "Phishing Detectado.",
+      "texto": "Ofuscación y Texto adicional. La URL que se presenta en el mensaje “Seguros\n      Internacionales”, pero al posicionarnos sobre el mismo a la verdadera dirección a la\n       que nos envía es a la siguiente https://seguro-internacional.commonnet/0/deposito/registro.php\n       , donde posiblemente sea un formulario para que el usuario llene con datos importantes\n       . Comunicado institucional usa correo personal, Hace referencia a un retiro de dinero, capta la\n        atención del usuario, el correo de entrada no pertenece al remitente. "
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/8.png",
+      "tipo": "Legítimo.",
+      "texto": "Correcta. Esta URL va dirigida a un dominio correcto y la misma url es la que aparece\n      cuando nos posicionamos sobre el enlace al que pide acceder https://mesa10.ups.edu.ec/.\n      Email proviene de un correo institucional, saludo cordial y formal "
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/9.png",
+      "tipo": "Legítimo.",
+      "texto": "Correcta. La URL presentada pertenece al dominio de GitHub, así mismo al posicionarnos\n      sobre el enlace, la URL a la que se dirige es la misma https://github.blog/2020-12-15-token-\n      authentication-requirements-for-git-operations/\n       . Dominios si pertenecen a github, Caso real "
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/10.png",
+      "tipo": "Legítimo.",
+      "texto": "No tiene URL\n      . Correo de notificación del banco, con dominio del mismo,\n      saludo cordial y Formal, Contenido con información concreta"
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/11.png",
+      "tipo": "Legítimo.",
+      "texto": "Los enlaces a los que se direcciona con enlaces propios de la\n      plataforma de Linkedin, en el enlace “Descubre las novedades” nos\n      redirecciona a la siguiente direccion  https://www.linkedin.com/comm\n      /feed/?midToken=AQEPN7hXTR_l4w por lo que es una direccion correcta\n       . El mensaje solo notifica al usuario, es concreto, no le pide llenar\n       datos, y es una notificación real ya que el dominio del correo de donde\n       proviene el mensaje corresponde al de la empresa "
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/12.png",
+      "tipo": "Phishing Detectado.",
+      "texto": "Texto adicional. La URL que se presenta no corresponde a ningún\n      enlace seguro proveniente de amazon o sus dominios oficiales, amazon tiene\n      la siguiente URL  https://www.amazon.com/  la extensión y el dominio de la\n      url que muestra el ejercicio son incorrectos, la URL donde se dirige posiblemente\n       sea un formulario para pedir datos personales http://www.b20-amazon.top/amazon/\n       encuesta.php?_t=25468002663.\n       El correo electrónico notifica que se ganará un premio al contestar una encuesta,\n        pero la url que se adjunta no corresponde a los dominios oficiales. Le muestra el\n        conteo de minutos restantes para delimitar el accionar y presionar al usuario."
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/13.png",
+      "tipo": "Phishing Detectado.",
+      "texto": "Ofuscación y Texto adicional. La URL que se presenta no corresponde a ningún\n       enlace seguro proveniente de amazon o sus dominios oficiales, la URL original de\n       amazon es https://www.amazon.com/ y la que se muestra en el ejercicio no tiene\n       similitud.\n       La url no está registrada en los dominios oficiales de la marca comercial,\n       utiliza texto persuasivo para engañar al usuario "
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/14.png",
+      "tipo": "Legítimo.",
+      "texto": "La URL es correcta, al posicionarnos sobre el enlace que nos muestra nos\n      redirige a esa misma dirección, así mismo es un enlace correcto de Google forms\n      . El mensaje proviene de un correo electrónico institucional, en este caso del\n      gobierno, el contenido es claro, no pretende pedir información personal"
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/15.png",
+      "tipo": "Legítimo.",
+      "texto": "No presenta URL\n      . Correo de notificación de ingreso de banca web de una entidad financiera,\n       muestra datos importantes para el usuario, no le pide ingresar a ningún\n       enlace, el mensaje es concreto y preciso "
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/16.png",
+      "tipo": "Legítimo.",
+      "texto": " Correo de notificación de marca comercial, Saludo cordial,\n      Contenido con información de pedido de compra, no pide al usuario\n      un accionar solo notifica"
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/17.png",
+      "tipo": "Legítimo.",
+      "texto": " En el botón “Quiero pagar” se nos redirige a un enlace correcto\n       de la entidad financiera https://click.email.pichincha.com/?qs=735c53834\n       d80f89f5b53f1c3adff0e1e0b43012ae89b9ee4f6f9a2e47321b9de340a93c4b892f1ef228781e\n       f713519978ab43d1cab8774fb y en el mismo contexto en el botón “Pagar en Banca\n       Web” nos redirige al Login de la banca Web propia del banco https://click.email\n       .pichincha.com/?qs=782c2cb9bb74da5bf066f3c9bcf33824308458b50cf813e806d211b909e\n       f12c08ad0d94bbf79b2051934278f6165274036b2719e8adebff\n      . Correo electrónico correcto con dominio del banco, no pide información personal,\n       el contenido directo, URL correctas"
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/18.png",
+      "tipo": "Legítimo.",
+      "texto": "los archivos adjuntos no se redireccionan a enlaces distintos,\n      son archivos propios de un formato de factura electrónica. Correo de\n      notificación de recepción de factura de compra, Saludo cordial\n      y Formal, Contenido con información concreta, el correo electrónico es institucional"
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/19.png",
+      "tipo": "Legítimo.",
+      "texto": " Los enlaces son correctos, propios de Udemy, por ejemplo el curso de Python,\n       su url es https://e2.udemymail.com/ls/click?upn=ZF3sOyS2SxEPIoSZT6Aoc-2BEAPso9xRA49IDb\n       kpAnXinASgRYWgpgjFukO0XzyuRhqrs..., el dominio es correcto\n      . Correo electrónico es de una empresa de cursos online, el contenido informativo,\n      no pide accionar ni presiona al usuario "
+    },
+    {
+      "url": "./../../../../assets/images/retroalimentacion/20.png",
+      "tipo": "Phishing Detectado.",
+      "texto": "Texto manipulado. La URL que se nos presenta no es la que pertenece a la entidad\n       financiera, https://www.bancoguayaquiI.com/Extra?Download-html ya que el dominio se está\n        escribiendo guayaquiI con “i I” mayúscula cuando sería guayaquil con “L”\n      . Correo de notificación del banco, pide al usuario realizar una acción al presionar la\n      URL para lograr un descuento, el contenido es persuasivo, asunto del correo llama la\n      atención del usuario"
+    }
+  ],
+  "dificultad": {
+    "facil": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      11,
+      12,
+      14,
+      15,
+      19
+    ],
+    "medio": [
+      0,
+      2,
+      8,
+      9,
+      16
+    ],
+    "dificil": [
+      1,
+      10,
+      13,
+      17,
+      18
+    ]
+  },
+  "respuestas": [
+    "Phishing",
+    "Phishing",
+    "Phishing",
+    "Phishing",
+    "Phishing",
+    "Phishing",
+    "Phishing",
+    "Legítimo",
+    "Legítimo",
+    "Legítimo",
+    "Legítimo",
+    "Phishing",
+    "Phishing",
+    "Legítimo",
+    "Legítimo",
+    "Legítimo",
+    "Legítimo",
+    "Legítimo",
+    "Legítimo",
+    "Phishing"
+  ]
+}

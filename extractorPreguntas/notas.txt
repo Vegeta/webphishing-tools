@@ -1,0 +1,17 @@
+CREATE TABLE "ejercicio" (
+  "id" serial4 NOT NULL,
+  "nombre" varchar(255) COLLATE "pg_catalog"."default",
+  "legitimo" int2,
+  "dificultad" varchar(255) COLLATE "pg_catalog"."default",
+  "imagen_retro" varchar(255) COLLATE "pg_catalog"."default",
+  "explicacion" text COLLATE "pg_catalog"."default",
+  "subject" varchar(255) COLLATE "pg_catalog"."default",
+	"sender" varchar(255) COLLATE "pg_catalog"."default",
+  "email" varchar(255) COLLATE "pg_catalog"."default",
+  "html" text COLLATE "pg_catalog"."default",
+  "adjuntos" json,
+  "data" json,
+  "links" json,
+  PRIMARY KEY ("id")
+)
+;
